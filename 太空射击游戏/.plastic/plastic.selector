@@ -1,0 +1,4 @@
+repository "太空射击游戏@ssl://emryslife@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
